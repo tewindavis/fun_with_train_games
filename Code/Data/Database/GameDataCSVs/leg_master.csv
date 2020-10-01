@@ -1,0 +1,101 @@
+OCITY, DCITY, ROUTE_COLOR, NUM_CARS
+Vancouver,Calgary,Gray,3
+Vancouver,Seattle,Gray,1
+Vancouver,Seattle,Gray,1
+Seattle,Portland,Gray,1
+Seattle,Portland,Gray,1
+Seattle,Calgary,Gray,4
+Seattle,Helena,Yellow,6
+Portland,San Francisco,Pink,5
+Portland,San Francisco,Green,5
+Portland,Salt Lake City,Blue,6
+San Francisco,Salt Lake City,Orange,5
+San Francisco,Salt Lake City,White,5
+San Francisco,Los Angeles,Pink,3
+San Francisco,Los Angeles,Yellow,3
+Los Angeles,Las Vegas,Gray,2
+Los Angeles,Phoenix,Gray,3
+Los Angeles,El Paso,Black,6
+Calgary,Winnipeg,White,6
+Calgary,Helena,Gray,4
+Salt Lake City,Helena,Pink,3
+Salt Lake City,Denver,Red,3
+Salt Lake City,Denver,Yellow,3
+Salt Lake City,Las Vegas,Orange,3
+Phoenix,Denver,White,5
+Phoenix,Santa Fe,Gray,3
+Phoenix,El Paso,Gray,3
+El Paso,Santa Fe,Gray,2
+El Paso,Oklahoma City,Yellow,5
+El Paso,Dallas,Red,4
+El Paso,Houston,Green,6
+Santa Fe,Oklahoma City,Blue,3
+Santa Fe,Denver,Gray,2
+Denver,Helena,Green,4
+Denver,Omaha,Pink,4
+Denver,Kansas City,Orange,4
+Denver,Kansas City,Black,4
+Denver,Oklahoma City,Red,4
+Helena,Winnipeg,Blue,4
+Helena,Duluth,Orange,5
+Helena,Omaha,Red,5
+Winnipeg,Sault St Marie,Gray,6
+Winnipeg,Duluth,Black,4
+Oklahoma City,Kansas City,Gray,2
+Oklahoma City,Kansas City,Gray,2
+Oklahoma City,Little Rock,Gray,2
+Oklahoma City,Dallas,Gray,2
+Oklahoma City,Dallas,Gray,2
+Omaha,Duluth,Gray,2
+Omaha,Duluth,Gray,2
+Omaha,Chicago,Blue,4
+Omaha,Kansas City,Gray,1
+Omaha,Kansas City,Gray,1
+Duluth,Sault St Marie,Gray,3
+Duluth,Toronto,Pink,6
+Duluth,Chicago,Red,3
+Dallas,Houston,Gray,1
+Dallas,Houston,Gray,1
+Dallas,Little Rock,Gray,2
+Houston,New Orleans,Gray,2
+Kansas City,Saint Louis,Pink,2
+Kansas City,Saint Louis,Blue,2
+Little Rock,Saint Louis,Gray,2
+Little Rock,Nashville,White,3
+Little Rock,New Orleans,Green,3
+Saint Louis,Chicago,Green,2
+Saint Louis,Chicago,White,2
+Saint Louis,Pittsburgh,Green,5
+Saint Louis,Nashville,Gray,2
+Chicago,Toronto,White,4
+Chicago,Pittsburgh,Orange,3
+Chicago,Pittsburgh,Black,3
+Sault St Marie,Toronto,Gray,2
+Sault St Marie,Montreal,Black,5
+Nashville,Pittsburgh,Yellow,4
+Nashville,Raleigh,Black,3
+Nashville,Atlanta,Gray,1
+New Orleans,Atlanta,Orange,4
+New Orleans,Atlanta,Yellow,4
+New Orleans,Miami,Red,6
+Atlanta,Raleigh,Gray,2
+Atlanta,Raleigh,Gray,2
+Atlanta,Charleston,Gray,2
+Atlanta,Miami,Blue,5
+Toronto,Pittsburgh,Gray,2
+Toronto,Montreal,Gray,3
+Raleigh,Pittsburgh,Gray,2
+Raleigh,Washington,Gray,2
+Raleigh,Washington,Gray,2
+Raleigh,Charleston,Gray,2
+Charleston,Miami,Pink,4
+Montreal,Boston,Gray,2
+Montreal,Boston,Gray,2
+Montreal,New York,Blue,3
+Pittsburgh,New York,White,2
+Pittsburgh,New York,Green,2
+Pittsburgh,Washington,Gray,2
+Boston,New York,Yellow,2
+Boston,New York,Red,2
+New York,Washington,Black,2
+New York,Washington,Orange,2
