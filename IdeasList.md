@@ -1,6 +1,6 @@
 # Ticket to Ride Reinforcement Learning Project
 
-An end-to-end deep learning project
+Aspirations/ideas for fun on data from a train-based game
 
 ### Data:
 * Tables
@@ -11,7 +11,7 @@ An end-to-end deep learning project
 ### Front End:
 	* vizualize plays in _leaflet.js_
 	* _d3.js_ for dynamic charts
-	* Map needs to look visually appealing without pissing off Days of Wonder
+	* Map needs to look visually appealing without pissing off 
 	
 ### Rules Engine (GamePlay):
 
@@ -52,7 +52,6 @@ An end-to-end deep learning project
 	* youtube video(s)
 	* open ai gym simulator
 	* everything should run inside a docker container
-	* a better job
 
 ### Preparation
 	* finish learning from data
