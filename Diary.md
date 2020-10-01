@@ -11,7 +11,7 @@ Refer to IdeasList.md as a pseudo backlog for things to do next in this project.
 	- tickets (tickets\_master.csv): the origin, destination, and point values of a ticket (note that these are bi-directional--it dosn't matter if you complete a leg from LA->NY or NY->LA)
 	- cities (city\_state\_master.csv): this is not finished as yet.  We have all cities entered, 
 		- cities table also includes the degree of each city (number of connections to other cities)	
-	- TODO: we also want to get cities' latitudes and longitudes so that we can plot them in leaflet.js or some other visualization.
+	- ~~TODO: we also want to get cities' latitudes and longitudes so that we can plot them in leaflet.js or some other visualization.~~_implemented: 2020-09-30_
 	- TODO: create table with number of cards of each color (include engines!) in the deck
 	- TODO: create a table with the player colors (colors for car tokens)
 	- IDEA: create a style guide with a proper name and a picture for each item in the game (car cards, tickets (route cards), car tokens, etc.)
